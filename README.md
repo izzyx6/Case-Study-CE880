@@ -28,6 +28,12 @@
 
 12. The estimator function is called, which fits and evaluates each of the models on the banknote authentication data.
 
+## HOW TO RUN CODE
+
+Data is already provided and import in the correct directory path.
+clone repo and run notebook in jupyter notebook.
+install any missing package with pip install. e.g pip install xgboost
+
 13. The performance of the models is compared using a variety of evaluation metrics, including accuracy, auc, precision, recall, and f1-score.
 
 ## IN SUMMARY
